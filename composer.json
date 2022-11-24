@@ -1,0 +1,15 @@
+{
+  "name": "treviller/gitflow-example",
+  "description": "This is some description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "tanguy",
+      "email": "tanguy.reviller@protonmail.com"
+    }
+  ],
+  "require": {
+  }
+}
