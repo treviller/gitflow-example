@@ -1,6 +1,6 @@
 <?php
 
 
-echo "This one will not be empty ! Oups I made a typo";
+echo "This one will not be empty !";
 
 $foo = "bar";
