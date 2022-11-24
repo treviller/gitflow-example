@@ -5,4 +5,4 @@ echo "This one will not be empty !";
 
 $foo = "bar";
 
-$newCHange = "OK";
+$newCHange = "OK with some new stuff";
